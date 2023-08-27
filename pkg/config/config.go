@@ -3,7 +3,7 @@ package config
 import (
 	"errors"
 
-	"gitub.com/treblle/treblle/pkg/storage"
+	"github.com/treblle/treblle/pkg/storage"
 )
 
 type Config struct {

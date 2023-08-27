@@ -3,7 +3,7 @@ package dispatcher
 import (
 	"sync"
 
-	"gitub.com/treblle/treblle/pkg/event"
+	"github.com/treblle/treblle/pkg/event"
 )
 
 type Dispatcher struct {

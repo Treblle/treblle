@@ -3,8 +3,8 @@ package examples
 import (
 	"github.com/charmbracelet/log"
 	"github.com/spf13/cobra"
-	"gitub.com/treblle/treblle/pkg/app"
-	"gitub.com/treblle/treblle/pkg/console"
+	"github.com/treblle/treblle/pkg/app"
+	"github.com/treblle/treblle/pkg/console"
 )
 
 var (

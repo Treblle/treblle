@@ -1,6 +1,6 @@
 package dispatcher
 
-import "gitub.com/treblle/treblle/pkg/queue"
+import "github.com/treblle/treblle/pkg/queue"
 
 // Dispatcher creates and controls the workers
 type Dispatcher struct {

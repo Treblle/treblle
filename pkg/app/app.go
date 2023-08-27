@@ -6,12 +6,12 @@ import (
 
 	"github.com/charmbracelet/log"
 	"github.com/spf13/cobra"
-	"gitub.com/treblle/treblle/pkg/config"
-	"gitub.com/treblle/treblle/pkg/console"
-	eventDispatcher "gitub.com/treblle/treblle/pkg/event/dispatcher"
-	"gitub.com/treblle/treblle/pkg/http"
-	queueDispatcher "gitub.com/treblle/treblle/pkg/queue/dispatcher"
-	"gitub.com/treblle/treblle/pkg/storage"
+	"github.com/treblle/treblle/pkg/config"
+	"github.com/treblle/treblle/pkg/console"
+	eventDispatcher "github.com/treblle/treblle/pkg/event/dispatcher"
+	"github.com/treblle/treblle/pkg/http"
+	queueDispatcher "github.com/treblle/treblle/pkg/queue/dispatcher"
+	"github.com/treblle/treblle/pkg/storage"
 )
 
 // App is the primary struct for your application.

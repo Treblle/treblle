@@ -1,4 +1,4 @@
-module gitub.com/treblle/treblle
+module github.com/treblle/treblle
 
 go 1.20
 
