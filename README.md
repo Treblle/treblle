@@ -1,6 +1,29 @@
+<div align="center">
+  <img src="https://treblle-github.s3.amazonaws.com/header.png"/>
+</div>
+<div align="center">
+
 # Treblle CLI
 
+<a href="https://docs.treblle.com/en/integrations" target="_blank">Integrations</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="http://treblle.com/" target="_blank">Website</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://docs.treblle.com" target="_blank">Docs</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://blog.treblle.com" target="_blank">Blog</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://twitter.com/treblleapi" target="_blank">Twitter</a>
+<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+<a href="https://treblle.com/chat" target="_blank">Discord</a>
+<br />
+
+  <hr />
+</div>
+
 A framework for building CLI applications fluently in Go.
+
+> This is currently unreleased, and is a work in progress. Breaking Changes are expected.
 
 ## Usage
 
@@ -126,3 +149,33 @@ func SomeOtherMethod() {
 ## Examples
 
 - [Simple Example](./examples/simple.go)
+
+
+## Community 💙
+
+First and foremost: **Star and watch this repository** to stay up-to-date.
+
+Also, follow our [Blog](https://blog.treblle.com), and on [Twitter](https://twitter.com/treblleapi).
+
+You can chat with the team and other members on [Discord](https://treblle.com/chat) and follow our tutorials and other video material at [YouTube](https://youtube.com/@treblle).
+
+[![Treblle Discord](https://img.shields.io/badge/Treblle%20Discord-Join%20our%20Discord-F3F5FC?labelColor=7289DA&style=for-the-badge&logo=discord&logoColor=F3F5FC&link=https://treblle.com/chat)](https://treblle.com/chat)
+
+[![Treblle YouTube](https://img.shields.io/badge/Treblle%20YouTube-Subscribe%20on%20YouTube-F3F5FC?labelColor=c4302b&style=for-the-badge&logo=YouTube&logoColor=F3F5FC&link=https://youtube.com/@treblle)](https://youtube.com/@treblle)
+
+[![Treblle on Twitter](https://img.shields.io/badge/Treblle%20on%20Twitter-Follow%20Us-F3F5FC?labelColor=1DA1F2&style=for-the-badge&logo=Twitter&logoColor=F3F5FC&link=https://twitter.com/treblleapi)](https://twitter.com/treblleapi)
+
+### How to contribute
+
+Here are some ways of contributing to making Treblle better:
+
+- **[Try out Treblle](https://docs.treblle.com/en/introduction#getting-started)**, and let us know ways to make Treblle better for you. Let us know here on [Discord](https://treblle.com/chat).
+- Join our [Discord](https://treblle.com/chat) and connect with other members to share and learn from.
+- Send a pull request to any of our [open source repositories](https://github.com/Treblle) on Github. Check the contribution guide on the repo you want to contribute to for more details about how to contribute. We're looking forward to your contribution!
+
+### Contributors
+<a href="https://github.com/Treblle/treblle/graphs/contributors">
+  <p align="center">
+    <img  src="https://contrib.rocks/image?repo=Treblle/treblle" alt="A table of avatars from the project's contributors" />
+  </p>
+</a>
