@@ -14,6 +14,10 @@ var (
 func main() {
 	app := app.New("example", AppPath, 12)
 	app.Boot()
+
+	RegisterCommands(app)
+
+	app.Console.RootCmd.Execute()
 }
 
 func RegisterCommands(app *app.App) {
