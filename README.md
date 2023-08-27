@@ -123,3 +123,6 @@ func SomeOtherMethod() {
 }
 ```
 
+## Examples
+
+- [Simple Example](./examples/simple.go)
